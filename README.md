@@ -1,6 +1,6 @@
-Projeto que desenvolvi com base nos estudos de circuito digitais.
+<h1>Projeto que desenvolvi com base nos estudos de circuito digitais.</h1>
 
-O projeto contem conversão do tipo
+<h2>O projeto contem conversão do tipo</h2>
 
 <p>1 -> Binario para decimal</p>
 <p>2 -> Decimal para binario</p>
